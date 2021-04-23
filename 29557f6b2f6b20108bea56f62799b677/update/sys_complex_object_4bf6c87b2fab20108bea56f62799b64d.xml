@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD87f6c87b5eab20105d15b3a865c66e4d</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>29557f6b2f6b20108bea56f62799b677</scope_name>
+        <serialized_content>{"FlowDesigner:FD87f6c87b5eab20105d15b3a865c66e4d":{"$COCollectionField":[{"newUsers_object":{"createdDateTime":"String","createdDateTime.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"createdDateTime\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"3e6a780a-7853-4cb6-b17f-b79669acfc3c\"}"},"userName":"String","userName.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"userName\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"2fa40d75-09b9-4f16-9047-f23c85da2bfd\"}"},"email":"String","email.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"email\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"e8f94bc5-c66b-43bf-b4e6-65106472d513\"}"},"errorDetails":{"errorCode":"String","errorCode.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"errorCode\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"bf56ca95-b970-44ed-8e81-4cc910f58a2f\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"message\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"779634ba-8f5a-4e9b-92a3-d924f7fe272c\"}"}},"errorDetails.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"errorDetails\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\",\"uiUniqueId\":\"06163760-04b9-445f-9369-71da8e0a30f9\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"4d08c49a-a35d-408e-b990-d288b23fdf8b\",\"default_value\":\"\",\"label\":\"statuses\",\"mandatory\":\"false\",\"child_name\":\"newUsers_object\",\"uiUniqueId\":\"2d6c1f0c-2c8f-4738-a0ad-d4fe8bf0c53e\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD87f6c87b5eab20105d15b3a865c66e4d\",\"child_label\":\"newUsers_object\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"ce5ee4c1-c7e1-4dca-b29a-917e191fe921\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"9673e829-0d41-45ed-bf10-923ea615c1f4\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD87f6c87b5eab20105d15b3a865c66e4d.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"4d08c49a-a35d-408e-b990-d288b23fdf8b\",\"default_value\":\"\",\"label\":\"statuses\",\"mandatory\":\"false\",\"child_name\":\"newUsers_object\",\"uiUniqueId\":\"2d6c1f0c-2c8f-4738-a0ad-d4fe8bf0c53e\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD87f6c87b5eab20105d15b3a865c66e4d\",\"child_label\":\"newUsers_object\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"ce5ee4c1-c7e1-4dca-b29a-917e191fe921\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"9673e829-0d41-45ed-bf10-923ea615c1f4\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-22 19:08:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4bf6c87b2fab20108bea56f62799b64d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD87f6c87b5eab20105d15b3a865c66e4d</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Twilio De Spoke" source="x_541116_twilio">29557f6b2f6b20108bea56f62799b677</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Twilio De Spoke">29557f6b2f6b20108bea56f62799b677</sys_scope>
+        <sys_update_name>sys_complex_object_4bf6c87b2fab20108bea56f62799b64d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-22 19:08:16</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
